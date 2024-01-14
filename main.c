@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Kaito Ban\n");
+  printf("Spring\nSummer\nAutumn\nWinter\n");
   return (0);
 }
